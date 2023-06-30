@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **max@kaiser.family**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maximilian-kaiser-02a555182/](https://www.linkedin.com/in/maximilian-kaiser-02a555182/)
+- 📄 Know about my experiences [https://docsend.com/view/6a6gb2dhdxfxandk/](https://docsend.com/view/6a6gb2dhdxfxandk/)
 
 - ⚡ Fun fact **I was a former semi-professional CS:GO player**
 
