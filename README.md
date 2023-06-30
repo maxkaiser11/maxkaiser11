@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS and Python**
 
-- 👨‍💻 All of my projects are available at [www.maxkaiser.io](www.maxkaiser.io)
+- 👨‍💻 All of my projects are available at [https://www.maxkaiser.io](https://www.maxkaiser.io)
 
 - 💬 Ask me about **Ruby on Rails**
 
