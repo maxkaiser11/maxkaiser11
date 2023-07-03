@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Ruby on Rails**
 
-- 📫 How to reach me **max@kaiser.family**
+- 📫 How to reach me **hello@maxkaiser.io**
 
 - 📄 Know about my experiences [https://docsend.com/view/6a6gb2dhdxfxandk/](https://docsend.com/view/6a6gb2dhdxfxandk/)
 
