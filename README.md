@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hello@maxkaiser.io**
 
-- 📄 Know about my experiences [https://docsend.com/view/6a6gb2dhdxfxandk/](https://docsend.com/view/6a6gb2dhdxfxandk/)
+- 📄 Know about my experiences [https://docsend.com/view/hz57hg5inrtt5fu2/](https://docsend.com/view/hz57hg5inrtt5fu2/)
 
 - ⚡ Fun fact **I was a former semi-professional CS:GO player**
 
