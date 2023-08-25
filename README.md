@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate Web Developer from Liechtenstein</h3>
 
-- 🔭 I’m currently working on [Roamers Route](https://www.roamersroute.com/)
+- 🔭 I’m currently working at Lentii(https://www.lentii.com/)
 
 - 🌱 I’m currently learning **ReactJS and Python**
 
