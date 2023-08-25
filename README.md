@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at Lentii (https://lentii.com)
 
-- 🌱 I’m currently learning **ReactJS and Python**
+- 🌱 I’m currently learning **Angular and RxJs**
 
 - 👨‍💻 All of my projects are available at [https://www.maxkaiser.io](https://www.maxkaiser.io)
 
-- 💬 Ask me about **Ruby on Rails**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **hello@maxkaiser.io**
 
