@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate Web Developer from Liechtenstein</h3>
+<h3 align="center">Trying to be a GameDev</h3>
 
 - 🔭 I’m currently working at Lentii (https://lentii.com)
 
-- 🌱 I’m currently learning **Angular and RxJs**
+- 🌱 I’m currently learning **Unity and C#**
 
 - 👨‍💻 All of my projects are available at [https://www.maxkaiser.io](https://www.maxkaiser.io)
 
