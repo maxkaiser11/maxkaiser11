@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Trying to be a GameDev</h3>
 
-- 🔭 I’m currently working at Lentii (https://lentii.com)
+- 🔭 I’m currently working at Disney Research Studios (https://studios.disneyresearch.com/)
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently learning **Unreal Engine 5 and C++**
 
 - 👨‍💻 All of my projects are available at [https://www.maxkaiser.io](https://www.maxkaiser.io)
 
