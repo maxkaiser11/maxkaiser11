@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at Disney Research Studios (https://studios.disneyresearch.com/)
 
-- 🌱 I’m currently learning **Unreal Engine 5 and C++**
+- 🌱 I’m currently learning **E2E Tesing with Cypress.io and Go (Programming Language)**
 
 - 👨‍💻 All of my projects are available at [https://www.maxkaiser.io](https://www.maxkaiser.io)
 
