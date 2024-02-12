@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.maxkaiser.io/](https://www.maxkaiser.io/)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Go (Programming Language)**
 
 - 📫 How to reach me **hello@maxkaiser.io**
 
