@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Godot and C++**
 
-- 👨‍💻 All of my projects are available at [https://www.maxkaiser.io/](https://www.maxkaiser.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.maxkaiser.vercel.app/](https://www.maxkaiser.vercel.app/)
 
 - 💬 Ask me about **Go (Programming Language)**
 
