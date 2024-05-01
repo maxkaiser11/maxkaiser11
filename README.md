@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at **Disney Research Studios**
 
-- 🌱 I’m currently learning **Godot and C++**
+- 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://maxkaiser.vercel.app/](https://maxkaiser.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.maxkaiser.io/](https://www.maxkaiser.io/)
 
 - 💬 Ask me about **Go (Programming Language)**
 
