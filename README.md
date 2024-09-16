@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max Kaiser</h1>
 <h3 align="center">I am a passionate Software Engineer</h3>
 
-- 🔭 I’m currently working at **Disney Research Studios**
+- 🔭 I’m currently working at **Roarington** as a Game Developer
 
 - 👨‍💻 All of my projects are available at [https://www.maxkaiser.io/](https://www.maxkaiser.io/)
 
