@@ -14,6 +14,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,go,js,ts,rust,mongodb,postgres,vue,svelte,neovim,firebase,godot,unreal,unity,git" />
+    <img src="https://skillicons.dev/icons?i=cpp,neovim,godot,unreal,git" />
   </a>
 </p>
