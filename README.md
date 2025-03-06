@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cru3zz" target="blank"><img src="https://img.shields.io/twitter/follow/cru3zz?logo=twitter&style=for-the-badge" alt="cru3zz" /></a> </p>
 
-- 🔭 I’m currently working oat **Roarington**
+- 🔭 I’m currently working at **Roarington**
 
 - 👨‍💻 All of my projects are available at [maxkaiser.io](maxkaiser.io)
 
