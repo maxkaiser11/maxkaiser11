@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working as a Game Developer at **Roarington**
 
-- 👨‍💻 All of my projects are available at [maxkaiser.io](maxkaiser.io)
-
 - 📫 How to reach me **hello@maxkaiser.io**
 
 <h3 align="left">Connect with me:</h3>
