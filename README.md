@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/cru3zz" target="blank"><img src="https://img.shields.io/twitter/follow/cru3zz?logo=twitter&style=for-the-badge" alt="cru3zz" /></a> </p>
 
 - 🔭 I’m currently working as a Game Developer at **Roarington**
--  https://github.com/maxkaiser11/resume/blob/main/Max%20kaiser.pdf
+-  CV -- https://github.com/maxkaiser11/resume
 
 - 📫 How to reach me **hello@maxkaiser.io**
 
