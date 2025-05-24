@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Max Kaiser</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Game Developer and Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/cru3zz" target="blank"><img src="https://img.shields.io/twitter/follow/cru3zz?logo=twitter&style=for-the-badge" alt="cru3zz" /></a> </p>
 
-- 🔭 I’m currently working at **Roarington**
+- 🔭 I’m currently working as a Game Developer at **Roarington**
 
 - 👨‍💻 All of my projects are available at [maxkaiser.io](maxkaiser.io)
 
