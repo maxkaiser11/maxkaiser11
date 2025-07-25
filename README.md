@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SDL2/SDL3**
 
-- 👨‍💻 All of my projects are available at [https:://www.maxkaiser.io](https:://www.maxkaiser.io)
+- 👨‍💻 All of my projects are available at [https:://www.maxkaiser.io](https://github.com/maxkaiser11?tab=repositories)]([https:://www.maxkaiser.io](https://github.com/maxkaiser11?tab=repositories))
 
 - 💬 Ask me about **C++, Unreal Engine**
 
