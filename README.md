@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23169
-Fork on GitHub
-7823
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Max Kaiser</h1>
 <h3 align="center">A passionate Game Developer</h3>
 
