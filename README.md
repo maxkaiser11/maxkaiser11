@@ -1,22 +1,40 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+23169
+Fork on GitHub
+7823
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Max Kaiser</h1>
-<h3 align="center">A passionate Game Developer and Software Engineer</h3>
+<h3 align="center">A passionate Game Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/cru3zz" target="blank"><img src="https://img.shields.io/twitter/follow/cru3zz?logo=twitter&style=for-the-badge" alt="cru3zz" /></a> </p>
+- 🔭 I’m currently working on **Roarington**
 
-- 🔭 I’m currently working as a Game Developer at **Roarington**
--  CV -- https://github.com/maxkaiser11/resume
+- 🌱 I’m currently learning **SDL2/SDL3**
 
-- 📫 How to reach me **hello@maxkaiser.io**
+- 👨‍💻 All of my projects are available at [https:://www.maxkaiser.io](https:://www.maxkaiser.io)
+
+- 💬 Ask me about **C++, Unreal Engine**
+
+- 📫 How to reach me **max@kaiser.family**
+
+- 📄 Know about my experiences [https://github.com/maxkaiser11/resume](https://github.com/maxkaiser11/resume)
+
+- ⚡ Fun fact **Ex Semi-Professional CS:GO Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cru3zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cru3zz" height="30" width="40" /></a>
+<a href="https://twitter.com/crubz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="crubz_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxkaiser11&show_icons=true&locale=en&layout=compact" alt="maxkaiser11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxkaiser11&show_icons=true&locale=en" alt="maxkaiser11" /></p>
-
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
