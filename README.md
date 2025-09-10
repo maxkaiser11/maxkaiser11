@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Roarington**
 
-- 🌱 I’m currently learning **SDL2/SDL3**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at https://github.com/maxkaiser11?tab=repositories
 
