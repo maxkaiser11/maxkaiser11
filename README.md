@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Max Kaiser</h1>
 <h3 align="center">A passionate Game Developer</h3>
 
-- 🔭 I’m currently working on **Roarington**
+- 🔭 I’m currently working at **Roarington AG**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently making my own RPG and Game Studio - **FerroByte Studio**
 
 - 👨‍💻 All of my projects are available at https://github.com/maxkaiser11?tab=repositories
 
-- 💬 Ask me about **C++, Unreal Engine**
+- 💬 Ask me about **Unity, Unreal Engine**
 
 - 📫 How to reach me **max@kaiser.family**
 
