@@ -40,8 +40,14 @@
 </a>
 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-white.svg">
+    <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-black.svg"
+         alt="rust" width="40" height="40"/>
+  </picture>
 </a>
+
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
