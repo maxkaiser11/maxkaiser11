@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at **Roarington AG**
 
-- 🌱 I’m currently making my own RPG and Game Studio - **FerroByte Studio**
+- 🌱 I’m currently learning Rust and FastAPI
 
 - 👨‍💻 All of my projects are available at https://github.com/maxkaiser11?tab=repositories
 
-- 💬 Ask me about **Unity, Unreal Engine**
+- 💬 Ask me about **Unity, Unreal Engine, C++**
 
 - 📫 How to reach me **max@kaiser.family**
 
