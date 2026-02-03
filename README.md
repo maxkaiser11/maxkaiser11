@@ -40,13 +40,14 @@
 </a>
 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-white.svg">
-    <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-black.svg"
-         alt="rust" width="40" height="40"/>
-  </picture>
+  <img
+    src="https://cdn.simpleicons.org/rust/000/fff?viewbox=auto&size=40"
+    alt="rust"
+    width="40"
+    height="40"
+  />
 </a>
+
 
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
