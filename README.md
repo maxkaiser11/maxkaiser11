@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Roarington AG**
 
-- 🌱 I’m currently learning Rust and FastAPI
+- 🌱 I’m currently learning Rust and Go
 
 - 👨‍💻 All of my projects are available at https://github.com/maxkaiser11?tab=repositories
 
