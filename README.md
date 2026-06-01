@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max Kaiser</h1>
-<h3 align="center">A passionate Game Developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working at **Roarington AG**
 
