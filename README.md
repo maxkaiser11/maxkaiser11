@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Unity, Unreal Engine, C++**
 
-- 📫 How to reach me **max@kaiser.family**
+- 📫 How to reach me **max@carrify.gg**
 
 - 📄 Know about my experiences [https://github.com/maxkaiser11/resume](https://github.com/maxkaiser11/resume)
 
