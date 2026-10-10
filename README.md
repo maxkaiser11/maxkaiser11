@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working at **Roarington AG**
 
-- 🌱 I’m currently learning Rust and Go
+- 🌱 I’m currently studying a BSc in Computer Science (Machine Learning and Artificial Intelligence)
 
 - 👨‍💻 All of my projects are available at https://github.com/maxkaiser11?tab=repositories
 
-- 💬 Ask me about **Unity, Unreal Engine, C++**
+- 💬 Ask me about **Unreal Engine, C++, Golang, Backend**
 
-- 📫 How to reach me **max@carrify.gg**
-
-- 📄 Know about my experiences [https://github.com/maxkaiser11/resume](https://github.com/maxkaiser11/resume)
+- 📫 How to reach me **mkaiser166@gmail.com**
 
 - ⚡ Fun fact **Ex Semi-Professional CS:GO Player**
 
