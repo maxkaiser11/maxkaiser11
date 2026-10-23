@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/maxkaiser11">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Roarington+AG;Go+%7C+C%2B%2B+%7C+Backend+%26+Game+Dev;Ex+Semi-Pro+CS%3AGO+Player+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Roarington+AG;Backend+%7C+APIs+%7C+ML+%26+AI;Python+%7C+Go+%7C+C%2B%2B;Ex+Semi-Pro+CS%3AGO+Player+%F0%9F%8E%AF" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,38 +11,29 @@
   <a href="https://x.com/m_kaiser11"><img src="https://img.shields.io/badge/X-@crubz__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:max.kaiser.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Max Kaiser-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/maxkaiser11?tab=repositories"><img src="https://img.shields.io/badge/Projects-Browse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-  <img src="https://komarev.com/ghpvc/?username=maxkaiser11&style=for-the-badge&color=00ADD8&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=maxkaiser11&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-### `$ cat about_me.go`
+### `$ cat about_me.yaml`
 
-```go
-package main
-
-type Engineer struct {
-	Name      string
-	Role      string
-	Company   string
-	Studying  string
-	Focus     []string
-	SideQuest []string
-	FunFact   string
-}
-
-func main() {
-	max := Engineer{
-		Name:      "Max Kaiser",
-		Role:      "Software Engineer",
-		Company:   "Roarington AG",
-		Studying:  "BSc Computer Science (ML & AI)",
-		Focus:     []string{"Go", "Backend", "APIs", "Systems"},
-		SideQuest: []string{"C++", "Unreal Engine", "Game Dev"},
-		FunFact:   "Ex Semi-Professional CS:GO Player",
-	}
-	_ = max // ask me about any of it 💬
-}
+```yaml
+name: Max Kaiser
+role: Software Engineer
+company: Roarington AG
+studying: BSc Computer Science (ML & AI)
+focus:
+  - Backend & APIs
+  - Python
+  - Go
+  - ML & AI
+side_quest:
+  - C++
+  - Unreal Engine
+  - Game Dev
+fun_fact: Ex Semi-Professional CS:GO Player
+# ask me about any of it 💬
 ```
 
 ---
@@ -50,7 +41,7 @@ func main() {
 ### 🧠 Backend / Systems
 
 <p align="left">
-  <a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go,rust,ts&perline=8" alt="Go, Rust, TypeScript" /></a>
+  <img src="https://skillicons.dev/icons?i=py,go,ts&perline=8" alt="Python, Go, TypeScript" />
 </p>
 
 ### 🎮 Game Development
@@ -79,5 +70,5 @@ func main() {
 ---
 
 <p align="center">
-  <i>“Clear is better than clever.” — Go Proverbs</i>
+  <i>“Make it work, make it right, make it fast.” — Kent Beck</i>
 </p>
