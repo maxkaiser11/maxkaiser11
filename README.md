@@ -41,7 +41,7 @@ fun_fact: Ex Semi-Professional CS:GO Player
 ### 🧠 Backend / Systems
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,go,ts&perline=8" alt="Python, Go, TypeScript" />
+  <img src="https://skillicons.dev/icons?i=rust,go,ts&perline=8" alt="Python, Go, TypeScript" />
 </p>
 
 ### 🎮 Game Development
