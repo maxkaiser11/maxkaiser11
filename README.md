@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/maxkaiser11">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Roarington+AG;Backend+%7C+APIs+%7C+ML+%26+AI;Python+%7C+Go+%7C+C%2B%2B;Ex+Semi-Pro+CS%3AGO+Player+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Roarington+AG;Backend+%7C+APIs+%7C+ML+%26+AI;Rust+%7C+Go+%7C+C%2B%2B;Ex+Semi-Pro+CS%3AGO+Player+%F0%9F%8E%AF" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,9 +25,9 @@ company: Roarington AG
 studying: BSc Computer Science (ML & AI)
 focus:
   - Backend & APIs
-  - Python
+  - Rust
   - Go
-  - ML & AI
+  - Systems
 side_quest:
   - C++
   - Unreal Engine
@@ -41,7 +41,7 @@ fun_fact: Ex Semi-Professional CS:GO Player
 ### 🧠 Backend / Systems
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,go,ts&perline=8" alt="Python, Go, TypeScript" />
+  <img src="https://skillicons.dev/icons?i=rust,go,ts&perline=8" alt="Rust, Go, TypeScript" />
 </p>
 
 ### 🎮 Game Development
@@ -70,5 +70,5 @@ fun_fact: Ex Semi-Professional CS:GO Player
 ---
 
 <p align="center">
-  <i>“Make it work, make it right, make it fast.” — Kent Beck</i>
+  <i>"Make it work, make it right, make it fast." — Kent Beck</i>
 </p>
