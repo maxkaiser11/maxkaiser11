@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/maxkaiser11">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Roarington+AG;Backend+%7C+APIs+%7C+ML+%26+AI;Rust+%7C+Go+%7C+C%2B%2B;Ex+Semi-Pro+CS%3AGO+Player+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Roarington+AG;Backend+%7C+APIs+%7C+Systems+Programming;Rust+%7C+Go+%7C+C%2B%2B;Ex+Semi-Pro+CS%3AGO+Player+%F0%9F%8E%AF" alt="Typing SVG" />
   </a>
 </p>
 
